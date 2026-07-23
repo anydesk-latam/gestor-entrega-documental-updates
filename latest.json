@@ -1,0 +1,11 @@
+{
+  "product": "GestorEntregaDocumental",
+  "version": "1.0.0",
+  "download_url": "https://github.com/anydesk-latam/gestor-entrega-documental-updates/releases/download/untagged-750d58dc12fcab7121d6/GestorEntregaDocumental-1.0.0-CLIENTE.zip",
+  "sha256": "64aad4e8caa7dd41fdfb070bcf2172a700d004af8e40b011cb8b0e0ef3abcb76",
+  "size_bytes": 56764506,
+  "notes": "Primera versión con actualizaciones automáticas.",
+  "mandatory": false,
+  "published_at": "2026-07-23T02:47:20.998278+00:00",
+  "signature": "hG1yqvLxuYk9VgoxPjsYTtP5qnU9cDdaQK0SxjE5EuBe9s7b83u-78UC_GNJ7vsJ-hlUuTP1mjR18yGg-6F_AA"
+}
