@@ -1,11 +1,11 @@
 {
   "product": "GestorEntregaDocumental",
-  "version": "1.0.3",
-  "download_url": "https://github.com/anydesk-latam/gestor-entrega-documental-updates/releases/download/v1.0.3/GestorEntregaDocumental-1.0.3-CLIENTE.zip",
-  "sha256": "5241a4dd30d0d5e0d3266fdc58a320441c9da258dfc5f1dda4de971c8c70abda",
-  "size_bytes": 56793450,
-  "notes": "Activación rápida por huella desde el panel propietario: elegir una licencia emitida o crearla directamente desde un plan y descargar el token sin depender del correo.",
+  "version": "1.0.4",
+  "download_url": "https://github.com/anydesk-latam/gestor-entrega-documental-updates/releases/download/v1.0.4/GestorEntregaDocumental-1.0.4-CLIENTE.zip",
+  "sha256": "defed2da2c519db8d8730089cfd09ceeb4ba8fbb515bbf5c600a077b71c0b692",
+  "size_bytes": 53673296,
+  "notes": "Ahora el token de licencia se guarda mediante la ventana nativa Guardar como de Windows: el propietario elige libremente carpeta y nombre. Se informa la ruta exacta y los errores aparecen dentro de la aplicación.",
   "mandatory": false,
-  "published_at": "2026-08-14T15:02:33.567308+00:00",
-  "signature": "L496EreGVERO9EAJUMNpLNTjbpYQqsWGrMNT0WIFzE65e2cg65ahesoKzmLqFQqtr5GdRZQTHzHS_bpPoFujDw"
+  "published_at": "2026-08-14T15:19:55.802190+00:00",
+  "signature": "FosycGK2uWQ59yFoknGMV6Dgqxzc_jZweaDPC6y_xSU5YAvSeyPto9KO6xmG9bzPkEsraD92ObyLVx7T8GumBw"
 }
