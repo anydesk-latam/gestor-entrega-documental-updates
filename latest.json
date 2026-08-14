@@ -1,11 +1,11 @@
 {
   "product": "GestorEntregaDocumental",
-  "version": "1.0.4",
-  "download_url": "https://github.com/anydesk-latam/gestor-entrega-documental-updates/releases/download/v1.0.4/GestorEntregaDocumental-1.0.4-CLIENTE.zip",
-  "sha256": "defed2da2c519db8d8730089cfd09ceeb4ba8fbb515bbf5c600a077b71c0b692",
-  "size_bytes": 53673296,
-  "notes": "Ahora el token de licencia se guarda mediante la ventana nativa Guardar como de Windows: el propietario elige libremente carpeta y nombre. Se informa la ruta exacta y los errores aparecen dentro de la aplicación.",
+  "version": "1.0.5",
+  "download_url": "https://github.com/anydesk-latam/gestor-entrega-documental-updates/releases/download/v1.0.5/GestorEntregaDocumental-1.0.5-CLIENTE.zip",
+  "sha256": "4af74af5e43bd43f6157d5215efba765fb92c107c219c4c36539eef77b981f7b",
+  "size_bytes": 53679228,
+  "notes": "Corrige definitivamente Guardar token: el selector se ejecuta en el hilo gráfico nativo de Windows y permite elegir carpeta y nombre. Añade eliminación individual y limpieza completa de licencias, activaciones y tokens, conservando planes, clientes y órdenes.",
   "mandatory": false,
-  "published_at": "2026-08-14T15:19:55.802190+00:00",
-  "signature": "FosycGK2uWQ59yFoknGMV6Dgqxzc_jZweaDPC6y_xSU5YAvSeyPto9KO6xmG9bzPkEsraD92ObyLVx7T8GumBw"
+  "published_at": "2026-08-14T15:34:10.566197+00:00",
+  "signature": "QRoHwKS_Xua3cWrAcn6PsWuPe_vnTGc5riayr3RmuP87AUvL2pB0d67_c8ojGq0nGTO95YlbuBCUfiesAJq6Cg"
 }
