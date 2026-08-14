@@ -1,11 +1,11 @@
 {
   "product": "GestorEntregaDocumental",
-  "version": "1.0.2",
-  "download_url": "https://github.com/anydesk-latam/gestor-entrega-documental-updates/releases/download/v1.0.2/GestorEntregaDocumental-1.0.2-CLIENTE.zip",
-  "sha256": "136b6d4e2747e60e2986e29f3e5c4637e222689a1514442171e25ed3f6951884",
-  "size_bytes": 56791405,
-  "notes": "Rotación automática y persistente de pools/IP autorizados cada N mensajes aceptados para API y SMTP; asignación visible en el monitor; validación de IP local SMTP y auditoría por mensaje.",
+  "version": "1.0.3",
+  "download_url": "https://github.com/anydesk-latam/gestor-entrega-documental-updates/releases/download/v1.0.3/GestorEntregaDocumental-1.0.3-CLIENTE.zip",
+  "sha256": "5241a4dd30d0d5e0d3266fdc58a320441c9da258dfc5f1dda4de971c8c70abda",
+  "size_bytes": 56793450,
+  "notes": "Activación rápida por huella desde el panel propietario: elegir una licencia emitida o crearla directamente desde un plan y descargar el token sin depender del correo.",
   "mandatory": false,
-  "published_at": "2026-08-13T19:10:32.826092+00:00",
-  "signature": "cds-G6K8OhB-qn6UsjkEg6e5tDB-QYcgwP8OHXDnVIDNWqlYYqsjnwkDNx6hQbTVw1H1LYxp_vEp7Phk7vppDA"
+  "published_at": "2026-08-14T15:02:33.567308+00:00",
+  "signature": "L496EreGVERO9EAJUMNpLNTjbpYQqsWGrMNT0WIFzE65e2cg65ahesoKzmLqFQqtr5GdRZQTHzHS_bpPoFujDw"
 }
