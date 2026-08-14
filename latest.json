@@ -1,11 +1,11 @@
 {
   "product": "GestorEntregaDocumental",
-  "version": "1.0.9",
-  "download_url": "https://github.com/anydesk-latam/gestor-entrega-documental-updates/releases/download/v1.0.9/GestorEntregaDocumental-1.0.9-CLIENTE.zip",
-  "sha256": "0a13466ca8f126997b7c3631027ff60ea9345fd1c174ab9221f89fdd0f6fc512",
-  "size_bytes": 53685052,
-  "notes": "Corrige falsos errores de Gmail cuando el servidor cierra la sesión después de aceptar el mensaje. Añade eliminación individual de facturas conservando licencias y equipos emitidos.",
+  "version": "1.0.10",
+  "download_url": "https://github.com/anydesk-latam/gestor-entrega-documental-updates/releases/download/v1.0.10/GestorEntregaDocumental-1.0.10-CLIENTE.zip",
+  "sha256": "7e3430a2d4eef0c38ff1b8a78dfbbe5b4ee9ac105c6726b1f0007b989fadb860",
+  "size_bytes": 53687091,
+  "notes": "Añade los iconos oficiales de Gmail, Microsoft Outlook y Yahoo Mail en conexiones y cuentas guardadas. Corrige la publicación del canal para que los clientes detecten nuevamente las actualizaciones automáticas.",
   "mandatory": false,
-  "published_at": "2026-08-14T16:54:42.734287+00:00",
-  "signature": "pwuWc8TtEVQTtL8QMjECQXHVBpRywEORv1vVLnb4Ar59oPHN-gXYwPxGc1tJjXOIBSv0UNdzNYpUikpQ7W75Bg"
+  "published_at": "2026-08-14T23:27:32.058036+00:00",
+  "signature": "B7jC70r0YTTyipTEKF-rOaerBLXk3fnY4cVdiYQIQ9Gx8hF2NrbIigTKraVSpuqA3QfHe-a6VKYfLw6WSP-tCg"
 }
