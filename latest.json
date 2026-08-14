@@ -1,11 +1,11 @@
 {
   "product": "GestorEntregaDocumental",
-  "version": "1.0.8",
-  "download_url": "https://github.com/anydesk-latam/gestor-entrega-documental-updates/releases/download/v1.0.8/GestorEntregaDocumental-1.0.8-CLIENTE.zip",
-  "sha256": "b360835a7dd13941bbf1d71f8d8ff60be4375959097ac143fa58d4a29161efb7",
-  "size_bytes": 53686296,
-  "notes": "Distribución automática y determinista entre cuentas autorizadas cada N mensajes, con cupos individuales y rutas congeladas para evitar duplicados. Panel cliente reorganizado en seis pasos simples y opciones avanzadas plegadas.",
+  "version": "1.0.9",
+  "download_url": "https://github.com/anydesk-latam/gestor-entrega-documental-updates/releases/download/v1.0.9/GestorEntregaDocumental-1.0.9-CLIENTE.zip",
+  "sha256": "0a13466ca8f126997b7c3631027ff60ea9345fd1c174ab9221f89fdd0f6fc512",
+  "size_bytes": 53685052,
+  "notes": "Corrige falsos errores de Gmail cuando el servidor cierra la sesión después de aceptar el mensaje. Añade eliminación individual de facturas conservando licencias y equipos emitidos.",
   "mandatory": false,
-  "published_at": "2026-08-14T16:28:59.080886+00:00",
-  "signature": "SxrpIGrt6C6Og08ykn1GHZKMJBObkbblbyCRx1S9AdfFUKnT_tkjv2awjoPu8M9oHrzccgqcy_z4zHufs9hCAQ"
+  "published_at": "2026-08-14T16:54:42.734287+00:00",
+  "signature": "pwuWc8TtEVQTtL8QMjECQXHVBpRywEORv1vVLnb4Ar59oPHN-gXYwPxGc1tJjXOIBSv0UNdzNYpUikpQ7W75Bg"
 }
