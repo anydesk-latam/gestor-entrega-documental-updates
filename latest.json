@@ -1,11 +1,11 @@
 {
   "product": "GestorEntregaDocumental",
-  "version": "1.0.6",
-  "download_url": "https://github.com/anydesk-latam/gestor-entrega-documental-updates/releases/download/v1.0.6/GestorEntregaDocumental-1.0.6-CLIENTE.zip",
-  "sha256": "9475d816a4115418e3162e5cd2017b79fcae7373fee8ffb93e19c8a91c3c9c82",
-  "size_bytes": 53685230,
-  "notes": "Añade reinicio completo del centro comercial de licencias (licencias, tokens, clientes, órdenes, pagos e ingresos) conservando identidad y configuración. Incorpora conexión guiada de Gmail, Outlook/Hotmail y Yahoo con credenciales protegidas y perfiles identificados por proveedor.",
+  "version": "1.0.7",
+  "download_url": "https://github.com/anydesk-latam/gestor-entrega-documental-updates/releases/download/v1.0.7/GestorEntregaDocumental-1.0.7-CLIENTE.zip",
+  "sha256": "deb011442cf0e7a2b577415d1424ced96032f17718c93c6eb5826cf7e66fe60d",
+  "size_bytes": 53683372,
+  "notes": "Conexión guiada para Gmail, Outlook/Hotmail y Yahoo. Actualización automática reforzada: conserva licencia, cuentas, credenciales, contactos, campañas y cola; valida el paquete antes de instalar.",
   "mandatory": false,
-  "published_at": "2026-08-14T15:48:48.366704+00:00",
-  "signature": "PbMMZ4kUV5BWqrOL5zMdlXOSpQlUz7ug2Wfsw6pPX0sw27CcDtH-Rk_JehAoUbxn0rZOGB6tuTJzJhPMc9wEBg"
+  "published_at": "2026-08-14T15:57:58.123395+00:00",
+  "signature": "9l3kddl7UuRfWOD3g8SCSHVCRl4BxMYjNtJyG23qFU7EpnfBlo4gcsb-zYI-ED4wrIq4zWVbfQI27z-DUW7bDQ"
 }
